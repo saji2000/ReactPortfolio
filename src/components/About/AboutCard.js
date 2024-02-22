@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sajad Daneshmand </span>
             from <span className="purple"> Toronto, Ontario.</span>
             <br />
-            I have Co-Founded and been the CEO at Maple.
+            I have been the Software Lead at Maple.
             <br />I gradutaded from{" "}
             <span className="purple">University of Alberta </span> with
             Bachelor's of Applied Sciences in{" "}
