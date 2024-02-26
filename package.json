@@ -26,6 +26,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "sync": "aws s3 sync ./build 's3://sajaddaneshmand.com/'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
