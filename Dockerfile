@@ -1,13 +1,8 @@
 FROM node:21-alpine
-
-COPY package.json /app/ 
-COPY src /app/
-COPY public /app/
-
 WORKDIR /app
-
+COPY package*.json ./
 RUN npm install   
-
-CMD ["npm", "start"]
-
+COPY public ./
+COPY src ./
+CMD ["npm", "run", "build"]
 EXPOSE 3000
