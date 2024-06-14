@@ -15,14 +15,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am full-stack
+              <br />I am a
               <i>
-                <b className="purple"> Node.js/React.js </b>
+                <b className="purple"> Product </b>
               </i>
-              Developer
+              Manager
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -31,7 +28,7 @@ function Home2() {
                 am interested in{" "}
                 <b className="purple">
                   {" "}
-                  Project/Product Managment and Data Science
+                  Artificial Intelligence and Data Science
                 </b>
               </i>
               <br />
