@@ -17,9 +17,9 @@ function Home2() {
             <p className="home-about-body">
               <br />I am a
               <i>
-                <b className="purple"> Software </b>
+                <b className="purple"> Product </b>
               </i>
-              Engineer
+              Manager
               <br />
               <br />
               My field of Interest's are building new &nbsp;
